@@ -3,20 +3,20 @@
 This is a project to demostrate use of express to create end-points for adding and retrieving contacts from the server. 
 
 Use of Methods:
-1.  **GET** - `/getCustomer`
+1.  **GET** - `/getContact` - Get Contact Phone Number
 
     *Inputs: - **Mandatory***
 
         1. name 
 ---        
-2.  **POST** - `/addContact`
+2.  **POST** - `/addContact` - Add Contact Phone Number
 
     *Inputs: - **Mandatory***
 
         1. name 
         2. phone 
 ---
-3.  **PUT** - `/updateContact`
+3.  **PUT** - `/updateContact` - Update Contact Phone Number
 
     *Inputs: - **Mandatory*** 
 
